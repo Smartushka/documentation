@@ -1,5 +1,5 @@
 ---
-id: pat
+id: d36abd0ff7e5d44009836a7b2de2fb0747d46644
 title: Github Personal Access Token
 description: "Create Github Personal Access Token"
 ---
